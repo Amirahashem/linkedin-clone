@@ -1,2 +1,2 @@
 # linkedin-clone
-LinkedIn About Clone – A static clone of LinkedIn’s "About" section built with HTML and CSS
+LinkedIn About Clone is a basic recreation of the LinkedIn "About" section using HTML and CSS. It showcases structured content with a simple and clean design. 🚀
